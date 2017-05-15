@@ -9,3 +9,4 @@
 * What is a commit? What makes a good commit message?
   A commit is a snapshop of your workflow at a current stage.  A good message tells us what we did during this part of the feature.
 * What is a merge conflict?
+  A merge conflict is when you edit a file ona conflicting branch and try to merge when the changes in time line do not match.
